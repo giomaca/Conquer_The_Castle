@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conquer_The_Castle", "Conquer_The_Castle\Conquer_The_Castle.csproj", "{AB703358-33A8-4299-B781-59E0124F8F47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB703358-33A8-4299-B781-59E0124F8F47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB703358-33A8-4299-B781-59E0124F8F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB703358-33A8-4299-B781-59E0124F8F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB703358-33A8-4299-B781-59E0124F8F47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24BD94C9-8AEC-4B42-BF15-44D0C4C752E4}
+	EndGlobalSection
+EndGlobal

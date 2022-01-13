@@ -1,0 +1,16 @@
+C:\Users\Giorgi\source\repos\Conquer_The_Castle\Conquer_The_Castle\bin\Debug\net5.0\Conquer_The_Castle.exe
+C:\Users\Giorgi\source\repos\Conquer_The_Castle\Conquer_The_Castle\bin\Debug\net5.0\Conquer_The_Castle.deps.json
+C:\Users\Giorgi\source\repos\Conquer_The_Castle\Conquer_The_Castle\bin\Debug\net5.0\Conquer_The_Castle.runtimeconfig.json
+C:\Users\Giorgi\source\repos\Conquer_The_Castle\Conquer_The_Castle\bin\Debug\net5.0\Conquer_The_Castle.runtimeconfig.dev.json
+C:\Users\Giorgi\source\repos\Conquer_The_Castle\Conquer_The_Castle\bin\Debug\net5.0\Conquer_The_Castle.dll
+C:\Users\Giorgi\source\repos\Conquer_The_Castle\Conquer_The_Castle\bin\Debug\net5.0\ref\Conquer_The_Castle.dll
+C:\Users\Giorgi\source\repos\Conquer_The_Castle\Conquer_The_Castle\bin\Debug\net5.0\Conquer_The_Castle.pdb
+C:\Users\Giorgi\source\repos\Conquer_The_Castle\Conquer_The_Castle\obj\Debug\net5.0\Conquer_The_Castle.csproj.AssemblyReference.cache
+C:\Users\Giorgi\source\repos\Conquer_The_Castle\Conquer_The_Castle\obj\Debug\net5.0\Conquer_The_Castle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giorgi\source\repos\Conquer_The_Castle\Conquer_The_Castle\obj\Debug\net5.0\Conquer_The_Castle.AssemblyInfoInputs.cache
+C:\Users\Giorgi\source\repos\Conquer_The_Castle\Conquer_The_Castle\obj\Debug\net5.0\Conquer_The_Castle.AssemblyInfo.cs
+C:\Users\Giorgi\source\repos\Conquer_The_Castle\Conquer_The_Castle\obj\Debug\net5.0\Conquer_The_Castle.csproj.CoreCompileInputs.cache
+C:\Users\Giorgi\source\repos\Conquer_The_Castle\Conquer_The_Castle\obj\Debug\net5.0\Conquer_The_Castle.dll
+C:\Users\Giorgi\source\repos\Conquer_The_Castle\Conquer_The_Castle\obj\Debug\net5.0\ref\Conquer_The_Castle.dll
+C:\Users\Giorgi\source\repos\Conquer_The_Castle\Conquer_The_Castle\obj\Debug\net5.0\Conquer_The_Castle.pdb
+C:\Users\Giorgi\source\repos\Conquer_The_Castle\Conquer_The_Castle\obj\Debug\net5.0\Conquer_The_Castle.genruntimeconfig.cache
