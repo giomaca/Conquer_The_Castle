@@ -53,7 +53,16 @@ namespace Conquer_The_Castle
 
     class Melee : Character
     {
-
+        public override void GetDamage(int damage)
+        {
+            Random rand = new Random();
+            int defence = rand.Next(1, 15);
+            if (damage > defence)
+                base.GetDamage(damage - defence);
+            else
+                base.GetDamage(0);
+            Console.WriteLine($"Melee Defence {defence}");
+        }
     }
 
     class Player : Character
